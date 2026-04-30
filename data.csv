@@ -1,0 +1,4 @@
+start, run, A
+start, walk, B
+A, stop, _, done
+B, stop, _, done
