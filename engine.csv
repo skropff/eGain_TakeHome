@@ -1,0 +1,5 @@
+start,smells_smoke,engine_check
+start,wont_crank,battery_check
+engine_check,oil_low,call_mechanic
+battery_check,dead_battery,call_mechanic
+call_mechanic,done,_,Goodbye
