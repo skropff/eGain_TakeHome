@@ -1,0 +1,3 @@
+start,power_on,check_battery
+check_battery,battery_full,working_fine
+working_fine,done,_,Goodbye
