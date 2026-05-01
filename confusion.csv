@@ -1,0 +1,4 @@
+start, press_button ,check_power
+start,press_button,check_screen
+check_power,ok,_,Power is fine
+check_screen,ok,_,Screen is fine
