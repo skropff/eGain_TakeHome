@@ -1,0 +1,3 @@
+start,power_on ,check_lights
+start,power_on,error_state
+check_lights,works,_,Everything is fine
